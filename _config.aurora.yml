@@ -108,13 +108,13 @@ site_meta:
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ""
-  clientSecret: ""
-  repo: "dev-blog-comments"
-  owner: "TriDiamond"
-  admin: ["TriDiamond"]
+  clientID: "4669e0e0b244b04b3058"
+  clientSecret: "c2350d45801a3c9284a2467898b9803c524f22fe"
+  repo: "hexo"
+  owner: "ducaoya"
+  admin: ["ducaoya"]
   id: uid
-  language: en
+  language: cn
   distractionFreeMode: true
   recentComment: true
   proxy: ""
